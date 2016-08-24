@@ -1,4 +1,4 @@
-# mlb team stats' importance
+# MLB Team Stats' Relative Importance
 •independent project
 
 A model predicting a major league baseball team's winning percentage with team stats using linear regressions on jupyter notebook.
