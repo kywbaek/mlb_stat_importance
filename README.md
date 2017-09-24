@@ -1,5 +1,8 @@
-# MLB Team Stats' Relative Importance
-•independent project
+_MLB Team Stats' Relative Importance_
+=====================================
 
-A model predicting a major league baseball team's winning percentage with team stats using linear regressions on jupyter notebook.
-The magnitudes of each stats' coefficients represent their relative importance to the team's winning percentage.
+## Project Overview
+
+- Calculated major league baseball team stats’ relative importance to winning.
+- Built Linear Regression models predicting teams’ winning percentage from team stats and compared the importance of each stat by its coefficient.
+- Illustrated the results with bar graph and scatter graphs for all of the 17 relevant team stats.
